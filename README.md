@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavbhardwaj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavbhardwaj1194@gmail.com)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://keshav-bhardwaj.vercel.app) -->
-[![Location](https://img.shields.io/badge/📍_Panipat,_India-555555?style=for-the-badge)](https://maps.google.com/?q=Hisar,Haryana,India)
+[![Location](https://img.shields.io/badge/📍_Hisar,_India-555555?style=for-the-badge)](https://maps.google.com/?q=Hisar,Haryana,India)
 
 </div>
 
