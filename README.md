@@ -19,8 +19,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavbhardwaj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavbhardwaj1194@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://keshav-bhardwaj.vercel.app)
-[![Location](https://img.shields.io/badge/📍_Panipat,_India-555555?style=for-the-badge)](https://maps.google.com/?q=Panipat,Haryana,India)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://keshav-bhardwaj.vercel.app) -->
+[![Location](https://img.shields.io/badge/📍_Panipat,_India-555555?style=for-the-badge)](https://maps.google.com/?q=Hisar,Haryana,India)
 
 </div>
 
@@ -151,12 +151,12 @@ open_to:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshavbhardwaj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhardwaj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshavbhardwaz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhardwaz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=keshavbhardwaj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=keshavbhardwaz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -262,7 +262,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:8b5cf6,100:00d4ff&height=120&section=footer" />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=keshavbhardwaj&icon=6&color=0" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=keshavbhardwaz&icon=6&color=0" alt="Profile Views"/>
   <br/>
   <sub>⭐ If any of my work helped you, feel free to star the repo!</sub>
 </div>
